@@ -2,7 +2,7 @@
 <head>
 <title> Home </title>
 <style>
-img{border:solid;height:300px;width:250px;}
+img{border:solid;height:350px;width:300px;}
 html{text-align:center;}
 </style> </head>
 <body>
