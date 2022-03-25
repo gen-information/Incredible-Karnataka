@@ -12,4 +12,4 @@ a{font-size:45px;text-align:center;font-family: 'Pacifico', cursive;}
   <map name="workmap">
     <area shape="circle" coords="320,356,412" href="https://sanjana1-12thstd.github.io/Tourist-places/"></map>
   <br><br><br>
-<a href=" https://sanjana1-12thstd.github.io/Tourist-places/"> Click me !
+<a href=" https://sanjana1-12thstd.github.io/Tourist-places/"> Click me or image !
